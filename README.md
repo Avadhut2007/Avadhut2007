@@ -1,3 +1,7 @@
+## ⭐ Favourite Project
+
+**[FPL Squad Lab](https://fpl-avadhutchavan03-3169s-projects.vercel.app/)** – A web app that picks the best Fantasy Premier League squad using live FPL data.
+
 ## 💫 About Me
 
 - 🔭 Currently working on: Project X
@@ -55,15 +59,3 @@
 ![Streak](https://streak-stats.demolab.com?user=Avadhut2007&theme=dark)
 
 
-
-
-
-![Stats](https://github-readme-stats.vercel.app/api?username=Avadhut2007&show_icons=true&theme=dark)
-
-
-
-## 🏆 GitHub Trophies
-
-
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=Avadhut2007&theme=dark)
