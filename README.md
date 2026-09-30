@@ -61,12 +61,12 @@
 
 
 
-![Streak](https://streak-stats.demolab.com?user=USERNAME&theme=dark)
+![Streak](https://streak-stats.demolab.com?user=Avadhut2007&theme=dark)
 
 
 
 
-![Stats](https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=dark)
+![Stats](https://github-readme-stats.vercel.app/api?username=Avadhut2007&show_icons=true&theme=dark)
 
 
 
@@ -74,4 +74,4 @@
 
 
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=USERNAME&theme=dark)
+![Trophies](https://github-profile-trophy.vercel.app/?username=Avadhut2007&theme=dark)
