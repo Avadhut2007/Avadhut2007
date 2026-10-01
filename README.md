@@ -2,11 +2,11 @@
 
 **[FPL Squad Lab](https://fpl-avadhutchavan03-3169s-projects.vercel.app/)** – A web app that picks the best Fantasy Premier League squad using live FPL data.
 
-## 💫 About Me
+## - About Me
 
-- 🔭 Currently working on: Project X
-- 🌱 Currently learning: Python and much more
-- ⚽ Fun fact: I'm a huge FC Barcelona fan, and I love football and badminton
+- 🔭 Currently working on: Project X.
+- 🌱 Currently learning: Python and much more.
+- ⚽ Fun fact: I'm a huge FC Barcelona fan, and I love badminton.
 
 ## 💻 Tech Stack
 
